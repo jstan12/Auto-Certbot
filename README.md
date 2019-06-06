@@ -11,4 +11,4 @@ Tested on Ubuntu 18.04
     # Public URL of DAG
     DAG_URL="dag.example.org"
     # /Users/localUserName/Downloads/ - Must end with "/"
-    DOWNLOAD="."
+    DOWNLOAD="/Users/joe/Downloads/"
