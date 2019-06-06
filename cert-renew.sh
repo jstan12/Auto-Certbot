@@ -1,5 +1,5 @@
 #!/bin/bash
-source conf.sh
+source conf
 leDir="/etc/letsencrypt/live/${DAG_URL}"
 homeDir="/home/${USER}"
 
