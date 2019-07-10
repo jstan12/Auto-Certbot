@@ -1,9 +1,7 @@
-- Scripted creation/renewal for Let's Encrypt Certbot.
-- Conf file must be completed before using.
-- Downloads certificates to machine where script is ran.
+### Intro
+Scripted creation/renewal for Let's Encrypt Certbot. Conf file must be completed before using. Downloads certificates to machine where script is ran. Uses port 80 on server.
 
-- Uses port 80 on server
-- Tested on Ubuntu 18.04 LTS
+Tested on Ubuntu 18.04 LTS
 
 ### Configuration Example (conf)
 
