@@ -5,6 +5,7 @@ Downloads certificates to machine where script is ran.
 Certificates must be manually uploaded to DAG admin web interface.
 
 Uses port 80 on server
+
 Tested on Ubuntu 18.04 LTS
 
 ### Configuration (conf)
