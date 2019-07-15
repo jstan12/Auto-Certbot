@@ -9,5 +9,6 @@ Tested on Ubuntu 18.04 LTS
     USER="joe"
     # Public URL of server
     SERVER_URL="dag.example.org"
+    # Directory on local machine to download certs
     # /Users/joe/Downloads/ - Must end with "/"
     DOWNLOAD="/Users/joe/Downloads/"
