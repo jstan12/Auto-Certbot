@@ -1,6 +1,6 @@
-# SSH user name
-USER="joe"
-# Public URL of DAG
-SERVER_URL="dag.example.org"
-# /Users/localUserName/Downloads/ - Must end with "/"
-DOWNLOAD="."
+# Username on server
+USER="ubuntu"
+# Your domain
+DOMAIN="example.org"
+# Your email address - You will receive a notification when your cert is going to expire
+MAIL="admin@example.org"
